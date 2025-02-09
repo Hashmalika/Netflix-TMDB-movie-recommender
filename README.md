@@ -1,4 +1,4 @@
-##Netflix Movie Recommendation System
+## Netflix Movie recommender
 
 Overview
 
